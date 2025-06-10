@@ -8,7 +8,7 @@ PASSWORD = "tmate"  # 设置密码保护，用于限制他人访问上传的SSH�
 # EXPIRES_IN = 86400  # 过期时间（秒），默认注释掉表示永久保存，取消注释后默认24小时后过期
 
 # 系统配置（一般不需要修改）
-TMATE_URL = "https://github.com/zhumengkang/agsb/raw/main/tmate"  # tmate可执行文件的下载地址
+TMATE_URL = "https://github.com/XCQ0607/tmate/raw/main/tmate"  # tmate可执行文件的下载地址
 XBIN_API = "https://xbin.pages.dev/api/paste"  # xbin粘贴板API地址，用于上传SSH连接信息
 USER_HOME = None  # 用户主目录路径，程序运行时会自动设置，存储临时文件和输出结果的位置
 SSH_INFO_FILE = "ssh.txt"  # SSH信息保存的文件名，默认为"ssh.txt"，保存在用户主目录下
